@@ -1,0 +1,18 @@
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\bin\Debug\bosch_lpp_show_results.exe.config
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\bin\Debug\bosch_lpp_show_results.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\bin\Debug\bosch_lpp_show_results.pdb
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\obj\Debug\bosch_lpp_show_results.csprojResolveAssemblyReference.cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\obj\Debug\bosch_lpp_show_results.Form1.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\obj\Debug\bosch_lpp_show_results.Properties.Resources.resources
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\obj\Debug\bosch_lpp_show_results.csproj.GenerateResource.Cache
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\obj\Debug\bosch_lpp_show_results.exe
+C:\Users\anocha\Documents\Visual Studio 2015\Projects\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\obj\Debug\bosch_lpp_show_results.pdb
+D:\Projects C#\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\bin\Debug\bosch_lpp_show_results.exe.config
+D:\Projects C#\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\obj\Debug\bosch_lpp_show_results.exe
+D:\Projects C#\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\obj\Debug\bosch_lpp_show_results.pdb
+D:\Projects C#\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\bin\Debug\bosch_lpp_show_results.exe
+D:\Projects C#\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\bin\Debug\bosch_lpp_show_results.pdb
+D:\Projects C#\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\obj\Debug\bosch_lpp_show_results.csprojResolveAssemblyReference.cache
+D:\Projects C#\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\obj\Debug\bosch_lpp_show_results.Form1.resources
+D:\Projects C#\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\obj\Debug\bosch_lpp_show_results.Properties.Resources.resources
+D:\Projects C#\mini_projeck_template\bosch_lpp_show_results\bosch_lpp_show_results\obj\Debug\bosch_lpp_show_results.csproj.GenerateResource.Cache
